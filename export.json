@@ -1,0 +1,1938 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.58.3 b33c3320",
+  "osm3s": {
+    "timestamp_osm_base": "2022-07-12T03:26:09Z",
+    "timestamp_areas_base": "2022-07-12T02:33:13Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 534853105,
+      "lat": 26.8751395,
+      "lon": 80.9581083,
+      "tags": {
+        "name": "Gole Market, Mahanagar",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 534853226,
+      "lat": 26.8617411,
+      "lon": 80.9927308,
+      "tags": {
+        "amenity": "public_building",
+        "name": "E-Suvidha Integrated Citizen Service Centre",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1666781713,
+      "lat": 26.8586095,
+      "lon": 80.9762733,
+      "tags": {
+        "addr:city": "Lucknow",
+        "addr:street": "Lohia Path",
+        "level": "0;1",
+        "name": "Spencer's",
+        "organic": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket",
+        "website": "https://www.spencers.in/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1904209108,
+      "lat": 26.8698078,
+      "lon": 80.997144,
+      "tags": {
+        "alt_name": "Wave Mall",
+        "name": "Wave, West End Mall",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1944291948,
+      "lat": 26.8726021,
+      "lon": 80.9573002,
+      "tags": {
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1944291954,
+      "lat": 26.8726452,
+      "lon": 80.9573216,
+      "tags": {
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1944291965,
+      "lat": 26.8748496,
+      "lon": 80.9587268,
+      "tags": {
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1944291970,
+      "lat": 26.8749373,
+      "lon": 80.9586037,
+      "tags": {
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1944291974,
+      "lat": 26.8726739,
+      "lon": 80.9578152,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1944291976,
+      "lat": 26.8744683,
+      "lon": 80.9591294,
+      "tags": {
+        "shop": "motorcycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1944291977,
+      "lat": 26.8749181,
+      "lon": 80.9581692,
+      "tags": {
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1944291978,
+      "lat": 26.8750055,
+      "lon": 80.9582169,
+      "tags": {
+        "addr:street": "Gole Market",
+        "name": "Cakes and Bakes",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1944291980,
+      "lat": 26.8751287,
+      "lon": 80.9582979,
+      "tags": {
+        "name": "Pappu Store",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2821665737,
+      "lat": 26.8591153,
+      "lon": 80.9985853,
+      "tags": {
+        "addr:city": "Lucknow",
+        "addr:housenumber": "Vivek Khand",
+        "addr:postcode": "226010",
+        "addr:street": "Gomti Nagar",
+        "name": "Universal Bookstoore",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3097222376,
+      "lat": 26.7987794,
+      "lon": 80.8969067,
+      "tags": {
+        "name": "Phoenix United Mall",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "shop": "mall",
+        "toilets": "yes",
+        "website": "https://www.thephoenixmills.com/united.asp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3097234633,
+      "lat": 26.8024088,
+      "lon": 80.8957111,
+      "tags": {
+        "name": "Sony Digital Store",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3097234634,
+      "lat": 26.7987602,
+      "lon": 80.8968611,
+      "tags": {
+        "name": "Reliance Digital",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3627170478,
+      "lat": 26.8806441,
+      "lon": 80.9309742,
+      "tags": {
+        "addr:city": "lucknow",
+        "addr:postcode": "226020",
+        "addr:street": "Sitapur Road",
+        "name": "bansal super store",
+        "operator": "bansal",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3941204715,
+      "lat": 26.8370092,
+      "lon": 80.9435892,
+      "tags": {
+        "name": "zam zam store",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3941230268,
+      "lat": 26.8471586,
+      "lon": 80.9459365,
+      "tags": {
+        "name": "Universal",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3941230270,
+      "lat": 26.8471081,
+      "lon": 80.9460153,
+      "tags": {
+        "name": "Bata",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3957458569,
+      "lat": 26.8727158,
+      "lon": 80.9831045,
+      "tags": {
+        "name": "Big Bazar",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4165961096,
+      "lat": 26.8625882,
+      "lon": 81.0105719,
+      "tags": {
+        "name": "Cinepolis",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4283668689,
+      "lat": 26.8454037,
+      "lon": 80.947786,
+      "tags": {
+        "name": "Walnut World Bakery",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4367061991,
+      "lat": 26.839308,
+      "lon": 80.9343586,
+      "tags": {
+        "addr:street": "Ashok Marg",
+        "name": "kTM bike showroom",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4367142589,
+      "lat": 26.8378107,
+      "lon": 80.9342951,
+      "tags": {
+        "addr:street": "Ashok Marg",
+        "name": "KTM Bike Workshop",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4408978589,
+      "lat": 26.8517658,
+      "lon": 80.9170405,
+      "tags": {
+        "name:en": "Samsung store",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4583434789,
+      "lat": 26.8835734,
+      "lon": 81.0569899,
+      "tags": {
+        "name:en": "Metro Wholesale",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4690120589,
+      "lat": 26.673035,
+      "lon": 80.9640283,
+      "tags": {
+        "name:en": "Avaneesh cutter",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4718897290,
+      "lat": 26.7567267,
+      "lon": 80.9412117,
+      "tags": {
+        "name:en": "होम",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4727497242,
+      "lat": 26.7944721,
+      "lon": 80.9114396,
+      "tags": {
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4965528522,
+      "lat": 26.8465896,
+      "lon": 80.9434704,
+      "tags": {
+        "addr:street": "D-4, Janpath Market, Narpatkhera, Lalbagh, Lucknow, Uttar Pradesh 226001, India",
+        "name:en": "Sugandhco",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5109433353,
+      "lat": 26.9282745,
+      "lon": 80.9352611,
+      "tags": {
+        "addr:city": "Lucknow",
+        "addr:street": "Sitapur Road",
+        "name": "Honda",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5485625424,
+      "lat": 26.858362,
+      "lon": 80.9671232,
+      "tags": {
+        "shop": "funeral_directors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5839458886,
+      "lat": 26.8473939,
+      "lon": 80.9463916,
+      "tags": {
+        "addr:postcode": "226001",
+        "addr:street": "Ashok Marg",
+        "name": "हज़रतगंज बाज़ार",
+        "name:en": "Hazratganj Market",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5839458988,
+      "lat": 26.8586304,
+      "lon": 80.9119264,
+      "tags": {
+        "name": "राजा बाज़ार",
+        "name:en": "Raja Bazar",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6033486387,
+      "lat": 26.8577802,
+      "lon": 80.9979655,
+      "tags": {
+        "name:en": "Neelkanth Sweets",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6033608886,
+      "lat": 26.8495743,
+      "lon": 80.9314252,
+      "tags": {
+        "name:en": "Ashwini Lassi",
+        "shop": "beverages"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6123271985,
+      "lat": 26.8964054,
+      "lon": 81.0759804,
+      "tags": {
+        "name:en": "Dainik Jagaran",
+        "shop": "newsagent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6432438985,
+      "lat": 26.8545141,
+      "lon": 80.9921451,
+      "tags": {
+        "addr:street": "Gomti Nagar Bypass Road",
+        "name:en": "The Thickshake Factory",
+        "shop": "beverages"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6482387785,
+      "lat": 26.8426627,
+      "lon": 80.9300668,
+      "tags": {
+        "name:en": "Sceince House",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6621845251,
+      "lat": 26.8735987,
+      "lon": 81.0023172,
+      "tags": {
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6621845252,
+      "lat": 26.8736499,
+      "lon": 81.002318,
+      "tags": {
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6621845255,
+      "lat": 26.8737964,
+      "lon": 81.0023313,
+      "tags": {
+        "clothes": "no",
+        "rental": "no",
+        "repair": "yes",
+        "sale": "no",
+        "second_hand": "no",
+        "shop": "motorcycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6621921235,
+      "lat": 26.8758105,
+      "lon": 81.0024187,
+      "tags": {
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6622027084,
+      "lat": 26.8568883,
+      "lon": 80.9733789,
+      "tags": {
+        "name": "Harsahaimal Shiamlal Jewellers Private Limited",
+        "shop": "jewelry",
+        "short_name": "HSJ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6631591714,
+      "lat": 26.8577354,
+      "lon": 80.9760319,
+      "tags": {
+        "level": "0",
+        "name": "Organic India",
+        "shop": "tea",
+        "website": "https://www.organicindia.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6631591716,
+      "lat": 26.8574599,
+      "lon": 80.9754998,
+      "tags": {
+        "level": "0",
+        "name": "Mr. Brown",
+        "phone": "+91-522-4113-205",
+        "shop": "bakery",
+        "website": "https://mrbrownbakery.com",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6631591717,
+      "lat": 26.8578441,
+      "lon": 80.9764449,
+      "tags": {
+        "clothes": "denim",
+        "level": "0",
+        "name": "Numero Uno",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6631591719,
+      "lat": 26.857859,
+      "lon": 80.9762222,
+      "tags": {
+        "addr:housename": "Fun Republic Mall",
+        "addr:unit": "16",
+        "level": "0",
+        "name": "US Polo Association",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6631591722,
+      "lat": 26.8578667,
+      "lon": 80.9762921,
+      "tags": {
+        "level": "0",
+        "name": "Sephora",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6631591723,
+      "lat": 26.8576857,
+      "lon": 80.9762719,
+      "tags": {
+        "level": "0",
+        "name": "Me n Moms",
+        "shop": "baby_goods"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6631591725,
+      "lat": 26.8576727,
+      "lon": 80.9762033,
+      "tags": {
+        "level": "0",
+        "name": "Flying Machine",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6631591729,
+      "lat": 26.8574349,
+      "lon": 80.9753379,
+      "tags": {
+        "level": "0",
+        "name": "Biba",
+        "shop": "clothes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6631591730,
+      "lat": 26.8576643,
+      "lon": 80.9761455,
+      "tags": {
+        "clothes": "children",
+        "level": "0",
+        "name": "US Polo Association Kids",
+        "shop": "clothes",
+        "short_name": "USPA Kids"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6631591731,
+      "lat": 26.8577739,
+      "lon": 80.9764535,
+      "tags": {
+        "level": "0",
+        "name": "Provogue",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6631591735,
+      "lat": 26.8578066,
+      "lon": 80.9764482,
+      "tags": {
+        "clothes": "traditional;women",
+        "level": "0",
+        "name": "Aurelia",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6631591736,
+      "lat": 26.8578491,
+      "lon": 80.9761507,
+      "tags": {
+        "level": "0",
+        "name": "Zodiac",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6631591737,
+      "lat": 26.8576987,
+      "lon": 80.9763996,
+      "tags": {
+        "level": "0",
+        "name": "Market 99",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6964126486,
+      "lat": 26.8470862,
+      "lon": 80.943812,
+      "tags": {
+        "name:en": "Janpath market",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6964126487,
+      "lat": 26.8477154,
+      "lon": 80.9451729,
+      "tags": {
+        "name:en": "Saree Bhawan",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6984192285,
+      "lat": 26.8279328,
+      "lon": 80.9469368,
+      "tags": {
+        "addr:city": "LUVKNOW",
+        "addr:housenumber": "616",
+        "addr:postcode": "226002",
+        "addr:street": "616,AZAD MOHAL SADAR BAZAR LALA MAHAVIR PRASAD ROAD CANTT",
+        "name": "TIRUPATI HARDWARE",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7053557466,
+      "lat": 26.8601605,
+      "lon": 81.0038945,
+      "tags": {
+        "name": "Gomti Nagar ticke counter",
+        "shop": "ticket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7907423181,
+      "lat": 26.8677208,
+      "lon": 81.0285119,
+      "tags": {
+        "name": "मां अम्बे जनरल स्टोर",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "shop": "general"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8386242117,
+      "lat": 26.8528975,
+      "lon": 80.9444205,
+      "tags": {
+        "addr:postcode": "226001",
+        "addr:street": "Shahnajaf Road",
+        "name:en": "Tanishq",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8404069317,
+      "lat": 26.8513323,
+      "lon": 80.9437436,
+      "tags": {
+        "addr:street": "Shahnajaf Road",
+        "name:en": "Honda Showroom",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8404069417,
+      "lat": 26.8511725,
+      "lon": 80.9436355,
+      "tags": {
+        "name:en": "Hyundai Showroom",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8491471017,
+      "lat": 26.854113,
+      "lon": 80.9291003,
+      "tags": {
+        "name": "Asia Trophy",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8493421117,
+      "lat": 26.851633,
+      "lon": 80.9280718,
+      "tags": {
+        "name:en": "Asia Trophy",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8656408598,
+      "lat": 26.8279587,
+      "lon": 80.9430378,
+      "tags": {
+        "addr:city": "Lucknow",
+        "addr:housenumber": "2",
+        "addr:postcode": "226002",
+        "addr:street": "Mangal Pandey Road, Sadar Bazar",
+        "name": "Sawhney Electronics",
+        "phone": "0522-2481918",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8752312545,
+      "lat": 26.8686139,
+      "lon": 80.974618,
+      "tags": {
+        "name": "Mishti Medical Store",
+        "shop": "medical_supply"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8752312547,
+      "lat": 26.8685517,
+      "lon": 80.9746274,
+      "tags": {
+        "name": "National Computeronics",
+        "shop": "computer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8823580502,
+      "lat": 26.8907478,
+      "lon": 81.0061565,
+      "tags": {
+        "addr:city": "lucknow",
+        "addr:housenumber": "sector 11",
+        "addr:postcode": "226016",
+        "addr:street": "Takrohi road",
+        "name": "Grahak Mart",
+        "phone": "+919935139845",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8860902224,
+      "lat": 26.777009,
+      "lon": 80.9453003,
+      "tags": {
+        "name": "RK Tower",
+        "opening_hours": "Mo-Su 08:30-20:30",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8860945286,
+      "lat": 26.8653931,
+      "lon": 80.9964631,
+      "tags": {
+        "name": "Madhurima Sweets",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8899865484,
+      "lat": 26.8773383,
+      "lon": 81.004218,
+      "tags": {
+        "name": "Amaltas Plaza",
+        "shop": "art"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8899865496,
+      "lat": 26.8757559,
+      "lon": 81.0043244,
+      "tags": {
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8910403288,
+      "lat": 26.8795183,
+      "lon": 80.9712034,
+      "tags": {
+        "name": "Veg Fruit",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8910405068,
+      "lat": 26.8797065,
+      "lon": 80.9718362,
+      "tags": {
+        "name": "Radhey Cosmetic",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8910427837,
+      "lat": 26.8801073,
+      "lon": 80.9717793,
+      "tags": {
+        "name": "UA Best Momos",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8910427838,
+      "lat": 26.8799962,
+      "lon": 80.9717472,
+      "tags": {
+        "name": "The Surprise Shop",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8910459861,
+      "lat": 26.8799192,
+      "lon": 80.97188,
+      "tags": {
+        "name": "Kamini Cloth Shop",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8910470673,
+      "lat": 26.8796724,
+      "lon": 80.9718103,
+      "tags": {
+        "name": "Mantu General Store",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8910470674,
+      "lat": 26.879552,
+      "lon": 80.9717473,
+      "tags": {
+        "name": "Anam Latest Tailors",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017250,
+      "lat": 26.8968,
+      "lon": 80.9429211,
+      "tags": {
+        "name": "Pappoo Store",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017257,
+      "lat": 26.8969435,
+      "lon": 80.9440499,
+      "tags": {
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017263,
+      "lat": 26.8995859,
+      "lon": 80.9396774,
+      "tags": {
+        "name": "Milk Dairy",
+        "shop": "dairy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017264,
+      "lat": 26.8961127,
+      "lon": 80.9425838,
+      "tags": {
+        "name": "Woody wood furniture",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017265,
+      "lat": 26.8959192,
+      "lon": 80.9424412,
+      "tags": {
+        "name": "Baskin Robbins",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017276,
+      "lat": 26.894529,
+      "lon": 80.9433397,
+      "tags": {
+        "name": "Optical Shop",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017278,
+      "lat": 26.8947884,
+      "lon": 80.9433447,
+      "tags": {
+        "name": "Firoz Beauty Salon",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017283,
+      "lat": 26.8954617,
+      "lon": 80.944039,
+      "tags": {
+        "name": "Usha Fashion Designing and clothes store",
+        "shop": "fashion_accessories"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017284,
+      "lat": 26.895401,
+      "lon": 80.9441269,
+      "tags": {
+        "name": "RK Enterprise",
+        "shop": "fashion_accessories"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017285,
+      "lat": 26.8959496,
+      "lon": 80.9439437,
+      "tags": {
+        "name": "e-kartCourier Services",
+        "shop": "baby_goods"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017289,
+      "lat": 26.8971984,
+      "lon": 80.9451072,
+      "tags": {
+        "name": "National Shoe Company",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017290,
+      "lat": 26.8975341,
+      "lon": 80.9450164,
+      "tags": {
+        "name": "Medi At Door( Medicine Home delivery)",
+        "shop": "medical_supply"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017300,
+      "lat": 26.9003369,
+      "lon": 80.9454642,
+      "tags": {
+        "name": "Studio K Salon",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017303,
+      "lat": 26.9010066,
+      "lon": 80.9459944,
+      "tags": {
+        "name": "Mr Brown Bakery",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017304,
+      "lat": 26.9014484,
+      "lon": 80.9462752,
+      "tags": {
+        "name": "Swaad Sweets Shop",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017307,
+      "lat": 26.9019082,
+      "lon": 80.9463189,
+      "tags": {
+        "name": "Bicycle Shop",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017308,
+      "lat": 26.9026026,
+      "lon": 80.9443767,
+      "tags": {
+        "name": "Prince Book store",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017309,
+      "lat": 26.9026712,
+      "lon": 80.9442702,
+      "tags": {
+        "name": "Prince Photo Shop",
+        "shop": "photo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017310,
+      "lat": 26.9028085,
+      "lon": 80.9434027,
+      "tags": {
+        "name": "PATANJALI& AROGYA SHOP",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017312,
+      "lat": 26.9011237,
+      "lon": 80.9426864,
+      "tags": {
+        "name": "Book Stores",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911017314,
+      "lat": 26.9011868,
+      "lon": 80.9427874,
+      "tags": {
+        "name": "Tailor",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911046741,
+      "lat": 26.9014464,
+      "lon": 80.9469246,
+      "tags": {
+        "name": "Bullet Repair shop",
+        "shop": "motorcycle_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911058618,
+      "lat": 26.9026873,
+      "lon": 80.9481643,
+      "tags": {
+        "name": "Bike Repair Shop",
+        "shop": "motorcycle_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911058619,
+      "lat": 26.9022612,
+      "lon": 80.9454778,
+      "tags": {
+        "name": "Adidas Clothing Store",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911058620,
+      "lat": 26.9023869,
+      "lon": 80.9451253,
+      "tags": {
+        "name": "Bata Shoe Store",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8915123531,
+      "lat": 26.8448013,
+      "lon": 80.8665735,
+      "tags": {
+        "name": "bunty store",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8915150932,
+      "lat": 26.8447341,
+      "lon": 80.8655536,
+      "tags": {
+        "name": "lpg gas centre",
+        "shop": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8915215172,
+      "lat": 26.8458083,
+      "lon": 80.8690783,
+      "tags": {
+        "name": "Gurudev store",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8915231823,
+      "lat": 26.8456992,
+      "lon": 80.8662237,
+      "tags": {
+        "name": "santosh sweets",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9103952888,
+      "lat": 26.8708121,
+      "lon": 80.9427732,
+      "tags": {
+        "name": "ESIC DISPENSARY",
+        "shop": "medical_supply"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9579108604,
+      "lat": 26.7862581,
+      "lon": 80.9442696,
+      "tags": {
+        "beauty": "cosmetics;hair;skin_care",
+        "kids_area": "no",
+        "kids_area:fee": "no",
+        "kids_area:indoor": "no",
+        "kids_area:outdoor": "no",
+        "kids_area:supervised": "no",
+        "level": "1",
+        "name": "Sandhya Beauty Parlor",
+        "opening_hours": "Mo-Su 09:00-19:45; Sa 09:00-17:00; PH unknown",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:notes": "yes",
+        "shop": "beauty",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9579206742,
+      "lat": 26.7849106,
+      "lon": 80.9413747,
+      "tags": {
+        "building": "yes",
+        "diet:dairy_free": "yes",
+        "diet:gluten_free": "yes",
+        "diet:halal": "no",
+        "diet:lacto_vegetarian": "yes",
+        "diet:lactose_free": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "level": "-1",
+        "name": "Sweet Luscious (Telibagh)",
+        "opening_hours": "PH,Mo-Su 10:00-22:30",
+        "shop": "bakery",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9590868466,
+      "lat": 26.7985849,
+      "lon": 80.8970242,
+      "tags": {
+        "name": "Pheonix United Mall",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "shop": "mall",
+        "toilets": "yes",
+        "toilets:access": "yes",
+        "toilets:wheelchair": "limited",
+        "wheelchair": "designated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9590868467,
+      "lat": 26.7985068,
+      "lon": 80.8976694,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "sandwich;noodle;coffee_shop;pasta",
+        "level": "0",
+        "name": "The Hazelnut Factory - Alambagh",
+        "opening_hours": "Mo-Su 08:30-23:30",
+        "shop": "bakery",
+        "takeaway": "yes",
+        "toilets:access": "customers",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9660805841,
+      "lat": 26.8538206,
+      "lon": 81.0406922,
+      "tags": {
+        "name": "Malhar ticket counter",
+        "shop": "ticket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9739568844,
+      "lat": 26.8707897,
+      "lon": 80.9783408,
+      "tags": {
+        "addr:street": "Faizabad Road",
+        "name:en": "Exclusive Car Seat covers",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9739616617,
+      "lat": 26.8475475,
+      "lon": 80.9322573,
+      "tags": {
+        "name:en": "RR seat covers",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9739675933,
+      "lat": 26.8496652,
+      "lon": 80.9388628,
+      "tags": {
+        "name:en": "Punjab Car accessories",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9739698717,
+      "lat": 26.8721737,
+      "lon": 80.9757139,
+      "tags": {
+        "name:en": "Elegant auto accessories",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9817516886,
+      "lat": 26.7713312,
+      "lon": 80.9564305,
+      "tags": {
+        "brand": "Honda Motor Company",
+        "name": "Radiant Honda Workshop",
+        "operator": "Honda Dealer",
+        "shop": "motorcycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9817516891,
+      "lat": 26.7784816,
+      "lon": 80.9430717,
+      "tags": {
+        "addr:city": "Lucknow",
+        "addr:street": "Telibagh",
+        "name": "SVG Shopping Mall ( aka CityLife mall)",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 211350576,
+      "nodes": [
+        2213628280,
+        2213628372,
+        2213628397,
+        2213628341,
+        2213628280
+      ],
+      "tags": {
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 211461144,
+      "nodes": [
+        2214748514,
+        2214748518,
+        2214748519,
+        2214748581,
+        2214748574,
+        2214748514
+      ],
+      "tags": {
+        "name": "Fun Republic",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 211515189,
+      "nodes": [
+        2215149100,
+        2215149096,
+        2215149057,
+        2215149058,
+        2215149100
+      ],
+      "tags": {
+        "name": "The East End Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 212876826,
+      "nodes": [
+        2234460951,
+        2234460953,
+        2234460949,
+        2234460952,
+        2234460954,
+        4169338629,
+        2226720977,
+        4169338626,
+        4169338624,
+        2226720954,
+        2226720946,
+        2226720951,
+        2226720948,
+        2234460951
+      ],
+      "tags": {
+        "name": "Sahara Ganj Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 232975262,
+      "nodes": [
+        2412957156,
+        2412957155,
+        2472333727,
+        2412957158,
+        2412957156
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "spencer",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256281614,
+      "nodes": [
+        2619546535,
+        2619546536,
+        2619546537,
+        2619546538,
+        2619546535
+      ],
+      "tags": {
+        "addr:city": "Lucknow",
+        "addr:housename": "Kathauta Chauraha",
+        "addr:housenumber": "L-34 & 35",
+        "addr:postcode": "226010",
+        "addr:street": "Chinnhat Road",
+        "building": "commercial",
+        "building:levels": "3",
+        "name": "Uday Tower",
+        "name:hi": "उदय टावर",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "roof:levels": "0",
+        "shop": "mall",
+        "toilets": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 392528521,
+      "nodes": [
+        3957458561,
+        3957458562,
+        3957458563,
+        3957458564,
+        3957458565,
+        3957458566,
+        3957458561
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Shalimar Eldee Plaza",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 416084219,
+      "nodes": [
+        4169353543,
+        4169353544,
+        4169353545,
+        4169353546,
+        4169353543
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Bindals",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 700304178,
+      "nodes": [
+        6576432537,
+        6576432538,
+        6576432539,
+        6576432540,
+        6576432541,
+        6576432542,
+        6576432543,
+        6576432544,
+        6576432545,
+        6576432546,
+        6576432547,
+        6576432548,
+        6576432549,
+        6576432550,
+        6576432537
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 976261606,
+      "nodes": [
+        9034548003,
+        9034548004,
+        9034548005,
+        9034548006,
+        9034548007,
+        9034548003
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2226720946,
+      "lat": 26.8545899,
+      "lon": 80.9467152
+    },
+    {
+      "type": "node",
+      "id": 2226720948,
+      "lat": 26.8546072,
+      "lon": 80.9470498
+    },
+    {
+      "type": "node",
+      "id": 2226720951,
+      "lat": 26.8547235,
+      "lon": 80.9467775
+    },
+    {
+      "type": "node",
+      "id": 2226720954,
+      "lat": 26.8550532,
+      "lon": 80.9453595
+    },
+    {
+      "type": "node",
+      "id": 2226720977,
+      "lat": 26.8566792,
+      "lon": 80.9460189
+    },
+    {
+      "type": "node",
+      "id": 2234460949,
+      "lat": 26.8553573,
+      "lon": 80.9467702
+    },
+    {
+      "type": "node",
+      "id": 2234460951,
+      "lat": 26.8554621,
+      "lon": 80.9473489
+    },
+    {
+      "type": "node",
+      "id": 2234460952,
+      "lat": 26.8555383,
+      "lon": 80.9461113
+    },
+    {
+      "type": "node",
+      "id": 2234460953,
+      "lat": 26.8555865,
+      "lon": 80.9469151
+    },
+    {
+      "type": "node",
+      "id": 2234460954,
+      "lat": 26.856573,
+      "lon": 80.9464703
+    },
+    {
+      "type": "node",
+      "id": 4169338624,
+      "lat": 26.8559895,
+      "lon": 80.9457392
+    },
+    {
+      "type": "node",
+      "id": 4169338626,
+      "lat": 26.856383,
+      "lon": 80.9458988
+    },
+    {
+      "type": "node",
+      "id": 4169338629,
+      "lat": 26.8566222,
+      "lon": 80.9462612
+    },
+    {
+      "type": "node",
+      "id": 4169353543,
+      "lat": 26.8565414,
+      "lon": 80.9452667
+    },
+    {
+      "type": "node",
+      "id": 4169353544,
+      "lat": 26.8564673,
+      "lon": 80.9455885
+    },
+    {
+      "type": "node",
+      "id": 4169353545,
+      "lat": 26.8562878,
+      "lon": 80.9455188
+    },
+    {
+      "type": "node",
+      "id": 4169353546,
+      "lat": 26.8563668,
+      "lon": 80.945205
+    },
+    {
+      "type": "node",
+      "id": 6576432537,
+      "lat": 26.7857819,
+      "lon": 80.9936356
+    },
+    {
+      "type": "node",
+      "id": 6576432538,
+      "lat": 26.7855211,
+      "lon": 80.993427
+    },
+    {
+      "type": "node",
+      "id": 6576432539,
+      "lat": 26.7861747,
+      "lon": 80.992308
+    },
+    {
+      "type": "node",
+      "id": 6576432540,
+      "lat": 26.7843461,
+      "lon": 80.9909273
+    },
+    {
+      "type": "node",
+      "id": 6576432541,
+      "lat": 26.7836164,
+      "lon": 80.9903943
+    },
+    {
+      "type": "node",
+      "id": 6576432542,
+      "lat": 26.7833286,
+      "lon": 80.9902653
+    },
+    {
+      "type": "node",
+      "id": 6576432543,
+      "lat": 26.7830403,
+      "lon": 80.9899305
+    },
+    {
+      "type": "node",
+      "id": 6576432544,
+      "lat": 26.782537,
+      "lon": 80.9907515
+    },
+    {
+      "type": "node",
+      "id": 6576432545,
+      "lat": 26.7837129,
+      "lon": 80.9914913
+    },
+    {
+      "type": "node",
+      "id": 6576432546,
+      "lat": 26.7844458,
+      "lon": 80.9919334
+    },
+    {
+      "type": "node",
+      "id": 6576432547,
+      "lat": 26.7848766,
+      "lon": 80.9921995
+    },
+    {
+      "type": "node",
+      "id": 6576432548,
+      "lat": 26.784176,
+      "lon": 80.9930927
+    },
+    {
+      "type": "node",
+      "id": 6576432549,
+      "lat": 26.7851384,
+      "lon": 80.9939453
+    },
+    {
+      "type": "node",
+      "id": 6576432550,
+      "lat": 26.7854376,
+      "lon": 80.9941631
+    },
+    {
+      "type": "node",
+      "id": 9034548003,
+      "lat": 26.7994585,
+      "lon": 81.0044746
+    },
+    {
+      "type": "node",
+      "id": 9034548004,
+      "lat": 26.7997464,
+      "lon": 81.0039996
+    },
+    {
+      "type": "node",
+      "id": 9034548005,
+      "lat": 26.7991574,
+      "lon": 81.0035302
+    },
+    {
+      "type": "node",
+      "id": 9034548006,
+      "lat": 26.7991047,
+      "lon": 81.0034899
+    },
+    {
+      "type": "node",
+      "id": 9034548007,
+      "lat": 26.798815,
+      "lon": 81.0039379
+    },
+    {
+      "type": "node",
+      "id": 2214748514,
+      "lat": 26.8573301,
+      "lon": 80.9759779
+    },
+    {
+      "type": "node",
+      "id": 2214748574,
+      "lat": 26.8590194,
+      "lon": 80.9756898
+    },
+    {
+      "type": "node",
+      "id": 2213628280,
+      "lat": 26.8456216,
+      "lon": 80.9874289
+    },
+    {
+      "type": "node",
+      "id": 2213628341,
+      "lat": 26.8460989,
+      "lon": 80.9880904
+    },
+    {
+      "type": "node",
+      "id": 2213628372,
+      "lat": 26.8465014,
+      "lon": 80.9871594
+    },
+    {
+      "type": "node",
+      "id": 2213628397,
+      "lat": 26.8467566,
+      "lon": 80.9875004
+    },
+    {
+      "type": "node",
+      "id": 2214748518,
+      "lat": 26.8574249,
+      "lon": 80.9767344
+    },
+    {
+      "type": "node",
+      "id": 2214748519,
+      "lat": 26.8574359,
+      "lon": 80.9768222
+    },
+    {
+      "type": "node",
+      "id": 2214748581,
+      "lat": 26.8591339,
+      "lon": 80.9765268
+    },
+    {
+      "type": "node",
+      "id": 3957458561,
+      "lat": 26.8726815,
+      "lon": 80.9826529
+    },
+    {
+      "type": "node",
+      "id": 3957458562,
+      "lat": 26.8730041,
+      "lon": 80.9826445
+    },
+    {
+      "type": "node",
+      "id": 3957458563,
+      "lat": 26.8730085,
+      "lon": 80.9828584
+    },
+    {
+      "type": "node",
+      "id": 3957458564,
+      "lat": 26.8729698,
+      "lon": 80.9828594
+    },
+    {
+      "type": "node",
+      "id": 3957458565,
+      "lat": 26.8729758,
+      "lon": 80.9831498
+    },
+    {
+      "type": "node",
+      "id": 3957458566,
+      "lat": 26.872692,
+      "lon": 80.9831572
+    },
+    {
+      "type": "node",
+      "id": 2215149057,
+      "lat": 26.8692364,
+      "lon": 80.9979672
+    },
+    {
+      "type": "node",
+      "id": 2215149058,
+      "lat": 26.8692617,
+      "lon": 80.9963364
+    },
+    {
+      "type": "node",
+      "id": 2215149096,
+      "lat": 26.8703382,
+      "lon": 80.9979947
+    },
+    {
+      "type": "node",
+      "id": 2215149100,
+      "lat": 26.8703701,
+      "lon": 80.9963524
+    },
+    {
+      "type": "node",
+      "id": 2412957155,
+      "lat": 26.8779284,
+      "lon": 80.9996469
+    },
+    {
+      "type": "node",
+      "id": 2412957156,
+      "lat": 26.877929,
+      "lon": 80.9993779
+    },
+    {
+      "type": "node",
+      "id": 2412957158,
+      "lat": 26.8780865,
+      "lon": 80.9993784
+    },
+    {
+      "type": "node",
+      "id": 2472333727,
+      "lat": 26.8780859,
+      "lon": 80.9996474
+    },
+    {
+      "type": "node",
+      "id": 2619546535,
+      "lat": 26.8660536,
+      "lon": 81.0239719
+    },
+    {
+      "type": "node",
+      "id": 2619546536,
+      "lat": 26.8659471,
+      "lon": 81.0244362
+    },
+    {
+      "type": "node",
+      "id": 2619546537,
+      "lat": 26.8655432,
+      "lon": 81.0243255
+    },
+    {
+      "type": "node",
+      "id": 2619546538,
+      "lat": 26.8656385,
+      "lon": 81.0238532
+    }
+  ]
+}
